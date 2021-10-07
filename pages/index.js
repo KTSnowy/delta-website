@@ -45,6 +45,7 @@ export default function Delta() {
             <p className="text-md p-4 pt-6">Tel.: 3217 8291</p>
             <p className="text-md p-4 pb-0">CEL/ZAP</p>
             <p className="text-md p-4 pt-0 pb-6">(21) 97471 6827</p>
+            <p className="text-md p-4 pt-6">CEP 21351-040</p>
           </div>
         </div>
         <div className="flex flex-row justify-evenly justify-around">
