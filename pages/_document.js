@@ -21,6 +21,7 @@ class DeltaDocument extends Document {
         <meta name="twitter:description" content="Com mais de 20 anos é a mais antiga recarga de cartuchos de Madureira" />
         <meta name="twitter:image" content="https://delta-website-eight.vercel.app/banner.png" />
         <meta name="theme-color" content="#202020" />
+        <meta name="robots" content="Index, Follow" />
         </Head>
         <body>
           <Main />
