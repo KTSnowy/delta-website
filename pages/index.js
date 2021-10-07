@@ -41,7 +41,7 @@ export default function Delta() {
             <img className="mx-auto" src="logo-shopping.png" width="85" alt="Shopping Peixinhos Logo"></img>
           </div>
           <div className="mx-auto mb-6 sm:m-6 p-4 pt-6 pb-4 w-72 sm:w-52 bg-lighter-black rounded-2xl">
-            <p className="text-lg">Entre em contacto com nosco:</p>
+            <p className="text-lg">Entre em contacto conosco:</p>
             <p className="text-md p-4 pt-6">Tel.: 3217 8291</p>
             <p className="text-md p-4 pb-0">CEL/ZAP</p>
             <p className="text-md p-4 pt-0 pb-6">(21) 97471 6827</p>
