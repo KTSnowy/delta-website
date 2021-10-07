@@ -37,14 +37,15 @@ export default function Delta() {
           <div className="mx-auto my-6 sm:m-6 p-4 pt-6 pb-4 w-72 sm:w-56 bg-lighter-black rounded-2xl">
             <p className="text-lg">Onde nos pode encontrar:</p>
             <p className="text-sm p-4">Rua Dagmar da Fonseca, 26B</p>
-            <p className="text-sm p-4 pb-6">Stand 117 - Madureira CEP 21351-040</p>
+            <p className="text-sm px-4 pb-6">Stand 117 - Madureira CEP 21351-040</p>
             <img className="mx-auto" src="logo-shopping.png" width="100" alt="Shopping Peixinhos Logo"></img>
           </div>
           <div className="mx-auto mb-6 sm:m-6 p-4 pt-6 pb-4 w-72 sm:w-52 bg-lighter-black rounded-2xl">
             <p className="text-lg">Entre em contacto conosco:</p>
-            <p className="text-md p-4 pt-6">Tel.: 3217 8291</p>
-            <p className="text-md p-4 pb-0">CEL/ZAP</p>
-            <p className="text-md p-4 pt-0 pb-6">(21) 9986 57467</p>
+            <p className="text-md p-2 pt-4">Tel.: 3217 8291</p>
+            <p className="text-md p-2 pb-0">CEL/ZAP</p>
+            <p className="text-md p-4 pt-0 pb-4">(21) 9986 57467</p>
+            <img className="mx-auto rounded-2xl" src="img_loja.jpg" width="150" alt="Foto da loja Delta Informatica"></img>
           </div>
         </div>
         <div className="flex flex-row justify-evenly justify-around">
