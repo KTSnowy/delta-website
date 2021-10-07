@@ -56,9 +56,9 @@ export default function Home() {
             <img className="mx-auto rounded-2xl" src="img-3.jpg"></img>
           </div>
         </div>
-        <p className="text-lg text-center pb-6 pt-6">Cartuchos originais ao melhor preço do mercado!</p>
+        <p className="text-lg text-center px-5 pb-6 pt-6">Cartuchos originais ao melhor preço do mercado!</p>
         <div className="h-1 w-full bg-lighter-black rounded-xl bg-gray-200 mb-2"></div>
-        <footer className="text-xs text-center pb-4 pt-2">
+        <footer className="text-xs text-center px-5 pb-4 pt-2">
           <p>Design © Mint Foxes Inc. 2021 Todos os direitos reservados.</p>
         </footer>
       </main>
