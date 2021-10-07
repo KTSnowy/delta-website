@@ -37,15 +37,14 @@ export default function Delta() {
           <div className="mx-auto my-6 sm:m-6 p-4 pt-6 pb-4 w-72 sm:w-56 bg-lighter-black rounded-2xl">
             <p className="text-lg">Onde nos pode encontrar:</p>
             <p className="text-sm p-4">Rua Dagmar da Fonseca, 26B</p>
-            <p className="text-sm p-4 pb-6">Stand 117 - Madureira</p>
-            <img className="mx-auto" src="logo-shopping.png" width="85" alt="Shopping Peixinhos Logo"></img>
+            <p className="text-sm p-4 pb-6">Stand 117 - Madureira CEP 21351-040</p>
+            <img className="mx-auto" src="logo-shopping.png" width="100" alt="Shopping Peixinhos Logo"></img>
           </div>
           <div className="mx-auto mb-6 sm:m-6 p-4 pt-6 pb-4 w-72 sm:w-52 bg-lighter-black rounded-2xl">
             <p className="text-lg">Entre em contacto conosco:</p>
             <p className="text-md p-4 pt-6">Tel.: 3217 8291</p>
             <p className="text-md p-4 pb-0">CEL/ZAP</p>
-            <p className="text-md p-4 pt-0 pb-6">(21) 97471 6827</p>
-            <p className="text-md p-4 pt-6">CEP 21351-040</p>
+            <p className="text-md p-4 pt-0 pb-6">(21) 9986 57467</p>
           </div>
         </div>
         <div className="flex flex-row justify-evenly justify-around">
@@ -62,7 +61,7 @@ export default function Delta() {
         <p className="text-lg text-center px-5 pb-6 pt-6">Cartuchos originais ao melhor preço do mercado!</p>
         <div className="h-1 w-full bg-lighter-black rounded-xl bg-gray-200 mb-2"></div>
         <footer className="text-xs text-center px-5 pb-4 pt-2">
-          <p>Design © <a className="no-underline" href="https://www.mintfoxes.com/" target="_blank" rel="noopener noreferrer">Mint Foxes Inc.</a> 2021 Todos os direitos reservados.</p>
+          <p>Design © <a className="no-underline text-blue-300" href="https://www.mintfoxes.com/" target="_blank" rel="noopener noreferrer">Mint Foxes Inc.</a> 2021 Todos os direitos reservados.</p>
         </footer>
       </main>
 
