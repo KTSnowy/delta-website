@@ -43,7 +43,8 @@ export default function Delta() {
           <div className="mx-auto mb-6 sm:m-6 p-4 pt-6 pb-4 w-72 sm:w-52 bg-lighter-black rounded-2xl">
             <p className="text-lg">Entre em contacto com nosco:</p>
             <p className="text-md p-4 pt-6">Tel.: 3217 8291</p>
-            <p className="text-md p-4 pb-6">CEL/ZAP 97471 6827</p>
+            <p className="text-md p-4 pb-0">CEL/ZAP</p>
+            <p className="text-md p-4 pt-0 pb-6">(21) 97471 6827</p>
           </div>
         </div>
         <div className="flex flex-row justify-evenly justify-around">
@@ -60,7 +61,7 @@ export default function Delta() {
         <p className="text-lg text-center px-5 pb-6 pt-6">Cartuchos originais ao melhor preço do mercado!</p>
         <div className="h-1 w-full bg-lighter-black rounded-xl bg-gray-200 mb-2"></div>
         <footer className="text-xs text-center px-5 pb-4 pt-2">
-          <p>Design © Mint Foxes Inc. 2021 Todos os direitos reservados.</p>
+          <p>Design © <a className="no-underline" href="https://www.mintfoxes.com/" target="_blank" rel="noopener noreferrer">Mint Foxes Inc.</a> 2021 Todos os direitos reservados.</p>
         </footer>
       </main>
 
