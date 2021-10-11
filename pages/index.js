@@ -59,6 +59,7 @@ export default function Delta() {
             <img className="mx-auto rounded-2xl" src="img-3.jpg" alt="Imagem de cartuchos"></img>
           </div>
         </div>
+        <img className="mx-auto w-1/2 mt-6 rounded-2xl" src="img-4.jpg" alt="Imagem de cartuchos"></img>
         <p className="text-lg text-center px-5 pb-6 pt-6">Cartuchos originais ao melhor preço do mercado!</p>
         <div className="h-1 w-full bg-lighter-black rounded-xl bg-gray-200 mb-2"></div>
         <footer className="text-xs text-center px-5 pb-4 pt-2">
